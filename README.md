@@ -7,8 +7,7 @@ Technology used
 ## front-end: ReactJS 
 I have used all libaries like react-router-dom, react-redux, bootstrap and many more for doing this in short period of time. Web code has checked in this folder - `react-web-app/web-app` 
 
-1. to run this code, go to this folder `react-web-app/web-app` and please run this command `npm run build`
-this will create a bundle for all code.
+1. to run this code, go to this folder `react-web-app/web-app` and please run this command `npm run build` this will create a bundle for all code.
 2.run these command to run this on local machine
 `npm install -g serve` then
 `serve -s build`
